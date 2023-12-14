@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500;700&display=swap');
+*{
+    font-family: 'Roboto', sans-serif;
+    scroll-behavior: smooth;
+}
+.main_black{
+    color: black;
+}
+.main_blackBg{
+    background-color: black;
+}
+::-webkit-scrollbar {
+    width: 6px;
+    
+  }
+  
+  /* Style the scrollbar track */
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1;
+  }
+  
+  /* Style the scrollbar thumb */
+  ::-webkit-scrollbar-thumb {
+    background: #7BAE35;
+    border-radius: 6px;
+  }
+  
+  /* Style the scrollbar thumb on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #4c6b20;
+  }
